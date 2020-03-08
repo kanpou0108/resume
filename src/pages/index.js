@@ -25,7 +25,7 @@ const IndexPage = () => (
           </div> */}
           <br />
           <p className="lead mb-5">
-          I am an experienced frontend developer. See LinkedIn for more detail.
+          I am an experienced frontend engineer. See LinkedIn for more detail.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
